@@ -124,16 +124,26 @@ currently:   Advancing scientific discovery through algorithm design
 
 <div align="center">
 
-| Platform | Status | Progress |
-|:--------:|:------:|:--------:|
-| 🐝 **beecrowd** | 100+ Problems Solved | ![100%](https://progress-bar.dev/85?title=solved&color=00CCBB) |
-| 🧩 **LeetCode** | Active Problem Solver | ![Active](https://progress-bar.dev/40?title=active&color=FFA116) |
-
-<br/>
-
-<a href="https://leetcode.com/nahidhashik">
-  <img src="https://leetcard.jacoblin.cool/nahidhashik?theme=dark&font=Fira%20Code&ext=heatmap" width="500"/>
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>🐝 beecrowd</h3>
+<a href="https://judge.beecrowd.com/en/profile/YOUR_PROFILE_ID">
+  <img src="https://bee-stats.vercel.app/stats/YOUR_PROFILE_ID" width="100%" alt="beecrowd stats" />
 </a>
+<br/>
+<sub><b>100+ Problems Solved</b></sub>
+</td>
+<td width="50%" align="center">
+<h3>🧩 LeetCode</h3>
+<a href="https://leetcode.com/nahidhashik">
+  <img src="https://leetcard.jacoblin.cool/nahidhashik?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode stats" />
+</a>
+<br/>
+<sub><b>Active Problem Solver</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -151,15 +161,27 @@ currently:   Advancing scientific discovery through algorithm design
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahidhashik&theme=tokyo-night&hide_border=true&area=true" />
 
+</div>
+
+---
+
+## 🎖️ Milestones & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Research%20Papers-3%20Published-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/beecrowd-100%2B%20Solved-FFC107?style=for-the-badge&logo=honey&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20Executive-SARBS%20Communication-00CCBB?style=for-the-badge&logo=ai&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Conference%20Speaker-Istanbul%202023-E91E63?style=for-the-badge&logo=ted&logoColor=white" />
+<img src="https://img.shields.io/badge/Co--Founder-Lastcoders%20Ltd-9C27B0?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Languages-4%20Spoken-FF6B35?style=for-the-badge&logo=googletranslate&logoColor=white" />
+
 <br/><br/>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=nahidhashik&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+### 🛠️ Skill Stack at a Glance
 
-<br/><br/>
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/nahidhashik/nahidhashik/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,html,css,bootstrap,laravel,tensorflow,pytorch,opencv,git,docker,linux,vscode,mysql,github&perline=9" />
 
 </div>
 
