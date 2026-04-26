@@ -6,16 +6,15 @@
   <p align="center">
     <a href="https://linkedin.com/in/nahid-hasan-ashik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.researchgate.net/profile/Nahid-Ashik"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/nahidhashik/"><img src="https://img.shields.io/badge/LeetCode-2+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/u/nahidhashik/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="https://x.com/nahidhashik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="mailto:nahidhashik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
 ### 💻 About Me
-I am a motivated researcher and engineer with a strong focus on **High-Performance Computing (HPC)**, **AI/ML**, and **Quantum Computing**. I specialize in low-level system programming and optimizing performance in complex computational environments.
+I am a motivated researcher and engineer focused on **High-Performance Computing (HPC)**, **AI/ML**, and **Quantum Computing**. I specialize in low-level system programming and optimizing performance in complex computational environments.
 
 - 🔭 **Current Role:** AI and Automation Specialist at **SARBS Communication Ltd.**.
 - 🎓 **Education:** B.Sc. in Computer Science and Engineering from **East West University**.
@@ -26,8 +25,13 @@ I am a motivated researcher and engineer with a strong focus on **High-Performan
 
 ### 🏆 Competitive Programming & Problem Solving
 I am passionate about algorithm design and parallel computing.
-- **beecrowd:** **100+ Problems Solved** | [View Profile](https://judge.beecrowd.com/en/profile/203779).
-- **LeetCode:** **2+ Problems Solved** | [View Profile](https://leetcode.com/u/nahidhashik/).
+- **beecrowd:** **100+ Problems Solved** | [View Profile](https://judge.beecrowd.com.br/judge/en/profile/203779).
+- **LeetCode:** [View Profile](https://leetcode.com/u/nahidhashik/).
+
+#### 📊 Problem Solving Distribution
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['beecrowd (100+)','LeetCode'],datasets:[{data:[100,2],backgroundColor:['%230A66C2','%23FFA116']}]}}" width="300" />
+</p>
 
 ---
 
@@ -48,4 +52,14 @@ I am passionate about algorithm design and parallel computing.
 
 ---
 
-### 📊 GitHub Engineering
+### 📊 GitHub Engineering Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect With Me
+- **Portfolio:** [nahidhashik.github.io/resume/](https://nahidhashik.github.io/resume/)
+- **WhatsApp:** [+8801728092066](
