@@ -16,5 +16,4 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidhasanashik&show_icons=true&theme=tokyonight)
-
+![Header](https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Nahid%20Hasan%20Ashik&fontSize=70)
