@@ -128,8 +128,8 @@ currently:   Advancing scientific discovery through algorithm design
 <tr>
 <td width="50%" align="center">
 <h3>🐝 beecrowd</h3>
-<a href="https://judge.beecrowd.com/en/profile/YOUR_PROFILE_ID">
-  <img src="https://bee-stats.vercel.app/stats/YOUR_PROFILE_ID" width="100%" alt="beecrowd stats" />
+<a href="https://www.beecrowd.com.br/judge/en/profile/203779">
+  <img src="https://bee-stats.vercel.app/stats/203779" width="100%" alt="beecrowd stats" />
 </a>
 <br/>
 <sub><b>100+ Problems Solved</b></sub>
