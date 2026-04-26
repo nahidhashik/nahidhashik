@@ -1,26 +1,39 @@
 <div align="center">
 
-<img src="https://github.com/nahidhashik.png" width="140" style="border-radius: 50%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nahid%20Hasan%20Ashik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=58&descSize=18" width="100%" />
 
-# 👋 Nahid Hasan Ashik
-### 🚀 Software Engineer | AI & Automation Specialist
+<img src="https://github.com/nahidhashik.png" width="160" style="border-radius:50%; border: 4px solid #00CCBB;" />
 
-💡 *Advancing scientific discovery through innovative algorithm design and interdisciplinary collaboration.*
+<h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Nahid!
+</h3>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00CCBB&center=true&vCenter=true&width=720&lines=Software+Engineer+%26+AI+Researcher;Building+Intelligent+%26+Scalable+Systems;HPC+%7C+Quantum+Computing+%7C+Explainable+AI;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://linkedin.com/in/nahid-hasan-ashik/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://researchgate.net/profile/Nahid-Ashik">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white"/>
-</a>
-<a href="mailto:nahidhashik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/8801728092066">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=nahidhashik&style=for-the-badge&color=00CCBB&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/nahidhashik?label=Followers&style=for-the-badge&color=0A66C2&logo=github" />
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-D14836?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/nahid-hasan-ashik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/nahidhashik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://researchgate.net/profile/Nahid-Ashik"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+<a href="https://medium.com/@nahidhashik"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://x.com/nahidhashik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://facebook.com/nahidhashik"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:nahidhashik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/8801728092066"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
@@ -28,57 +41,163 @@
 
 ## 🧠 About Me
 
-I am a passionate **Software Engineer & Researcher** with strong expertise in:
+```yaml
+name:        Nahid Hasan Ashik
+role:        AI & Automation Specialist @ SARBS Communication Ltd.
+education:   B.Sc. in CSE — East West University
+co-founder:  Lastcoders Limited
+research:    Explainable AI (XAI) & Computer Vision
+languages:   [ Bangla, English, Hindi, Urdu ]
+currently:   Advancing scientific discovery through algorithm design
+            & interdisciplinary collaboration.
+```
 
-- ⚡ High-Performance Computing (HPC)  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧬 Quantum Computing  
-- 📊 Performance Optimization & Scalable Systems  
+- ⚡ **High-Performance Computing (HPC)** & parallel system design
+- 🤖 **Artificial Intelligence & Machine Learning** in production environments
+- 🧬 **Quantum Computing** explorations and research
+- 📊 **Performance Optimization** for scalable, real-world systems
+- 🌱 Always learning — currently exploring edge AI and federated learning
 
-🔭 Currently working as **AI & Automation Specialist** at **SARBS Communication Ltd.**  
-🎓 B.Sc. in Computer Science & Engineering — *East West University*  
-🚀 Co-founder of **Lastcoders Limited**  
-🔬 Research focus: **Explainable AI (XAI)** & **Computer Vision**
+> 💡 *"Code is the bridge between what we imagine and what we can prove."*
 
 ---
 
-## 🏆 Competitive Programming
+## 🛠️ Tech Stack
 
-- 💻 **beecrowd:** 100+ Problems Solved  
-- 🧩 **LeetCode:** Active Problem Solver  
+<div align="center">
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['beecrowd','LeetCode'],datasets:[{data:[100,10]}]}}" width="300"/>
-</p>
+#### 💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+#### 🤖 AI / ML / Data
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+#### 🌐 Web & Frameworks
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+#### 🔧 Tools & DevOps
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
 
 ---
 
 ## 🔬 Research Publications
 
-📄 **Deep Learning-Based Skin Lesion Classification**  
-➡️ *IJISRT, April 2025*
-
-📄 **Automation of Drowsiness Alert System for Drivers**  
-➡️ *ICRTMDR-23, Istanbul*
-
-📄 **Hybrid Approach for Plant Disease Detection (CNN & SVM)**  
-➡️ *IJISRT, Oct 2023*
+<table>
+<tr>
+<td width="50">📄</td>
+<td><b>Deep Learning-Based Skin Lesion Classification using CNN</b><br/>
+<sub>📰 <i>International Journal of Innovative Science and Research Technology (IJISRT)</i> · April 2025</sub></td>
+</tr>
+<tr>
+<td>📄</td>
+<td><b>Automation of Drowsiness Alert System for Drivers</b><br/>
+<sub>📰 <i>ICRTMDR-23, IFERP — Istanbul, Turkey</i> · November 2023</sub></td>
+</tr>
+<tr>
+<td>📄</td>
+<td><b>A Hybrid Approach for Plant Disease Detection using CNN & SVM</b><br/>
+<sub>📰 <i>International Journal of Innovative Science and Research Technology (IJISRT)</i> · October 2023</sub></td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Competitive Programming
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+| Platform | Status | Progress |
+|:--------:|:------:|:--------:|
+| 🐝 **beecrowd** | 100+ Problems Solved | ![100%](https://progress-bar.dev/85?title=solved&color=00CCBB) |
+| 🧩 **LeetCode** | Active Problem Solver | ![Active](https://progress-bar.dev/40?title=active&color=FFA116) |
+
+<br/>
+
+<a href="https://leetcode.com/nahidhashik">
+  <img src="https://leetcard.jacoblin.cool/nahidhashik?theme=dark&font=Fira%20Code&ext=heatmap" width="500"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 📊 GitHub Analytics
 
-```bash
-Languages:   Python | C++ | JavaScript  
-AI/ML:       TensorFlow | PyTorch | OpenCV  
-Web:         HTML | CSS | Bootstrap  
-Tools:       Git | Docker | Linux  
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhashik&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nahidhashik&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=nahidhashik&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/nahidhashik/nahidhashik/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Nahid))
+    AI & Automation
+      Production ML
+      Workflow Automation
+      Telecom AI
+    Research
+      Explainable AI
+      Computer Vision
+      HPC
+    Engineering
+      Scalable Systems
+      Algorithm Design
+      Performance
+    Learning
+      Quantum Computing
+      Edge AI
+      Federated Learning
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together
+
+📫 Reach me at **nahidhashik@gmail.com** • Open to research collaborations, AI consulting, and meaningful conversations.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+
+<sub>⭐ <i>From <a href="https://github.com/nahidhashik">Nahid Hasan Ashik</a> — with curiosity and caffeine.</i></sub>
+
+</div>
