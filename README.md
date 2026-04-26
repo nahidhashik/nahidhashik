@@ -5,7 +5,7 @@
   
   <p align="center">
     <a href="https://www.linkedin.com/in/nahid-hasan-ashik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.researchgate.net/profile/Nahid-Hasan-Ashik"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+    <a href="https://www.researchgate.net/profile/Nahid-Ashik"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
     <a href="https://x.com/nahidhashik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="mailto:nahidhashik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
@@ -18,8 +18,8 @@ I am an **AI Engineer** based in Dhaka, Bangladesh. I specialize in bridging the
 
 - 🔭 **Currently:** Driving AI initiatives at **SARBS Communication Ltd.**
 - 🎓 **Education:** B.Sc. in Computer Science and Engineering from **East West University.**
-- 🔬 **Research:** Focused on **Explainable AI (XAI)** and published in **ICSET 2025.**
-- ⚡ **Fun Fact:** I’m a tech blogger on Medium writing about "The Future of AI."
+- 🔬 **Research:** Focused on **Explainable AI (XAI)**—check out my work on [ResearchGate](https://www.researchgate.net/profile/Nahid-Ashik).
+- ⚡ **Fun Fact:** I author technical content on Medium regarding the future of AI.
 
 ---
 
@@ -34,23 +34,4 @@ I am an **AI Engineer** based in Dhaka, Bangladesh. I specialize in bridging the
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhashik&theme=tokyonight" />
-</p>
-
----
-
-### 📬 Connect With Me
-- **WhatsApp:** [+880 1728-092066](https://wa.me/8801728092066)
-- **Mobile:** +880 1537-149052
-- **ResearchGate:** [View My Publications](https://www.researchgate.net/profile/Nahid-Hasan-Ashik)
-
----
-
-<div align="center">
-  <sub>Engineering the future, one line of code at a time.</sub>
-</div>
+  <img width="48%" src="
