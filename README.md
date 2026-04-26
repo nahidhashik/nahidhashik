@@ -5,8 +5,9 @@
   
   <p align="center">
     <a href="https://www.linkedin.com/in/nahid-hasan-ashik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.researchgate.net/profile/Nahid-Hasan-Ashik"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+    <a href="https://x.com/nahidhashik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="mailto:nahidhashik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://wa.me/8801728092066"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   </p>
 </div>
 
@@ -16,8 +17,9 @@
 I am an **AI Engineer** based in Dhaka, Bangladesh. I specialize in bridging the gap between robust software architecture and cutting-edge Artificial Intelligence. My work focuses on building scalable applications and intelligent automation systems.
 
 - 🔭 **Currently:** Driving AI initiatives at **SARBS Communication Ltd.**
-- 🎓 **Background:** B.Sc. in Computer Science and Engineering from **East West University.**
-- ⚡ **Fun Fact:** I’m a researcher in **Explainable AI (XAI)** and a tech blogger on Medium.
+- 🎓 **Education:** B.Sc. in Computer Science and Engineering from **East West University.**
+- 🔬 **Research:** Focused on **Explainable AI (XAI)** and published in **ICSET 2025.**
+- ⚡ **Fun Fact:** I’m a tech blogger on Medium writing about "The Future of AI."
 
 ---
 
@@ -42,11 +44,13 @@ I am an **AI Engineer** based in Dhaka, Bangladesh. I specialize in bridging the
 
 ---
 
-### 📈 Activity Graph
-![Nahid's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidhashik&theme=tokyonight&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)
+### 📬 Connect With Me
+- **WhatsApp:** [+880 1728-092066](https://wa.me/8801728092066)
+- **Mobile:** +880 1537-149052
+- **ResearchGate:** [View My Publications](https://www.researchgate.net/profile/Nahid-Hasan-Ashik)
 
 ---
 
 <div align="center">
-  <sub>Let's build something intelligent. Stay connected!</sub>
+  <sub>Engineering the future, one line of code at a time.</sub>
 </div>
