@@ -16,4 +16,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Header](https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Nahid%20Hasan%20Ashik&fontSize=70)
+### 📊 GitHub Stats
+![Nahid's Stats](https://github-readme-stats.shion.dev/api?username=nahidhasanashik&show_icons=true&theme=tokyonight&count_private=true)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=nahidhasanashik&theme=tokyonight&no-frame=true&margin-w=15)
+
+### 🛠️ Top Languages
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=nahidhasanashik&layout=compact&theme=tokyonight&hide_langs_below=1)
