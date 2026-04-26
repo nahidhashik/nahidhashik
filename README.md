@@ -128,26 +128,10 @@ currently:   Advancing scientific discovery through algorithm design
 <tr>
 <td width="50%" align="center" valign="top">
 <h3>🐝 beecrowd</h3>
-
 <a href="https://www.beecrowd.com.br/judge/en/profile/203779">
-  <img src="https://img.shields.io/badge/nahidhashik-%23203779-FFC107?style=for-the-badge&logo=honey&logoColor=black&labelColor=0d0d0d" alt="beecrowd profile" />
+  <img src="https://raw.githubusercontent.com/nahidhashik/nahidhashik/main/beecrowd-stats.svg" width="100%" alt="beecrowd stats" />
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PROBLEMS%20SOLVED-100%2B-FFC107?style=for-the-badge&labelColor=0d0d0d" />
-
 <br/>
-
-<img src="https://img.shields.io/badge/Status-Active-7ee787?style=flat-square&labelColor=0d0d0d&logo=fitbit&logoColor=white" />
-<img src="https://img.shields.io/badge/Languages-C%20%C2%B7%20C%2B%2B%20%C2%B7%20Python-58a6ff?style=flat-square&labelColor=0d0d0d" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Brazilian%20Online%20Judge-beecrowd.com.br-FF6F00?style=flat-square&labelColor=0d0d0d" />
-
-<br/><br/>
-
 <sub><b>100+ Problems Solved</b></sub>
 </td>
 <td width="50%" align="center" valign="top">
