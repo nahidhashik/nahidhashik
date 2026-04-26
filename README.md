@@ -1,56 +1,66 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=0A66C2&height=200&section=header&text=Nahid%20Hasan%20Ashik&fontSize=70&animation=fadeIn&fontAlignY=38" />
   
-  <h3>🚀 Software Engineer | AI Executive at SARBS Communication Ltd.</h3>
+  <h3>🚀 Software Engineer | AI & Automation Specialist at SARBS Communication Ltd.</h3>
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/nahid-hasan-ashik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.researchgate.net/profile/Nahid-Ashik"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
-    <a href="https://x.com/nahidhashik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="mailto:nahidhashik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/nahid-hasan-ashik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://researchgate.net/profile/Nahid-Ashik"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/nahidhashik/"><img src="https://img.shields.io/badge/LeetCode-100+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://github.com/nahidhashik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 💻 About Me
-I am an **AI Engineer** based in Dhaka, Bangladesh. I specialize in bridging the gap between robust software architecture and cutting-edge Artificial Intelligence. My work focuses on building scalable applications and intelligent automation systems.
+### 💻 Executive Summary
+[cite_start]Motivated researcher and engineer with a strong focus on **High-Performance Computing (HPC)**, **AI/ML**, and **Quantum Computing**. [cite_start]I specialize in low-level system programming and optimizing performance in complex computational environments[cite: 12].
 
-- 🔭 **Currently:** Driving AI initiatives at **SARBS Communication Ltd.**
-- 🎓 **Education:** B.Sc. in Computer Science and Engineering from **East West University.**
-- 🔬 **Research:** Focused on **Explainable AI (XAI)**—check out my work on [ResearchGate](https://www.researchgate.net/profile/Nahid-Ashik).
-- ⚡ **Fun Fact:** I author technical content on Medium regarding the future of AI.
+- [cite_start]🔭 **Current Role:** AI and Automation Specialist at **SARBS Communication Ltd.**[cite: 17].
+- [cite_start]🎓 **Education:** B.Sc. in Computer Science and Engineering from **East West University**[cite: 57, 61].
+- [cite_start]💡 **Innovation:** Co-founder of **Lastcoders Limited**, a tech startup focused on innovative software solutions.
+- [cite_start]🔬 **Research Interests:** Parallel computing, algorithm design, and interdisciplinary scientific discovery[cite: 13].
 
 ---
 
-### 🛠️ Tech Stack & Skills
-| Category | Tools & Technologies |
+### 🔬 Research & Publications
+* **Deep Learning-Based Skin Lesion Classification** | [cite_start]*IJISRT*, April 2025[cite: 54, 55].
+* **Automation of Drowsiness Alert System for Drivers** | [cite_start]*ICRTMDR-23*, Istanbul, Turkey[cite: 51, 52].
+* **Hybrid Approach for Plant Disease Detection (CNN & SVM)** | [cite_start]*IJISRT*, Oct 2023[cite: 53].
+
+---
+
+### 🛠️ Technical Arsenal
+| Category | Stack |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
-| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| **Languages** | [cite_start]C/C++, Python, PHP, SQL, HTML/CSS/JS [cite: 67, 68, 70, 71] |
+| **Frameworks** | [cite_start]Laravel, JQuery, TensorFlow, PyTorch [cite: 70, 72] |
+| **Specialized** | [cite_start]AI, Data Mining, Microprocessors, Robotics Dynamics [cite: 64, 73] |
+| **Tools** | [cite_start]Git, WordPress, MATLAB, Arduino, Figma [cite: 63, 65, 69, 89] |
 
 ---
 
-### 📊 Engineering Metrics
+### 🏆 Problem Solving & Projects
+* [cite_start]**Competitive Programming:** Solved **100+ problems** on LeetCode and active on [beecrowd](https://www.beecrowd.com.br/judge/en/profile/203779)[cite: 77, 78].
+* [cite_start]**Robotics:** Developed Line Follower Robots and Face Recognition IOT systems[cite: 80, 82].
+* [cite_start]**Leadership:** Served as a **Campus Ambassador** for **GeeksforGeeks**, fostering coding culture on campus[cite: 38, 41, 42].
+
+---
+
+### 📊 GitHub Stats & Performance
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhashik&theme=tokyonight" />
-</p>
-
 ---
 
-### 📬 Connect With Me
-- **WhatsApp:** [+880 1728-092066](https://wa.me/8801728092066)
-- **Mobile:** +880 1537-149052
-- **ResearchGate:** [Nahid Ashik](https://www.researchgate.net/profile/Nahid-Ashik)
-
----
+### 📬 Connect & Collaborate
+- [cite_start]**Portfolio:** [nahidhashik.github.io/resume/](https://nahidhashik.github.io/resume/) [cite: 5]
+- [cite_start]**Email:** [nahidhashik@gmail.com](mailto:nahidhashik@gmail.com) [cite: 6]
+- [cite_start]**WhatsApp:** [+8801728092066](https://wa.me/8801728092066) [cite: 9]
+- **Creative Work:** [Behance](https://www.behance.net/nahidhasanashik) | [cite_start][Medium](https://medium.com/@nahidhashik) [cite: 87, 88]
 
 <div align="center">
-  <sub>Engineering the future, one line of code at a time.</sub>
+  <sub>Advancing scientific discovery through innovative code.</sub>
 </div>
