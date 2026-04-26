@@ -1,84 +1,177 @@
 <div align="center">
 
-<img src="https://github.com/nahidhashik.png" width="140" style="border-radius: 50%;" />
+<img src="https://github.com/nahidhashik.png" width="130" style="border-radius:50%" />
 
-# 👋 Nahid Hasan Ashik
-### 🚀 Software Engineer | AI & Automation Specialist
+# Nahid Hasan Ashik  
+### 🚀 Software Engineer | AI & Automation Specialist  
 
-💡 *Advancing scientific discovery through innovative algorithm design and interdisciplinary collaboration.*
+💬 *Advancing scientific discovery through innovative algorithm design and interdisciplinary collaboration.*
 
 <br/>
 
-<a href="https://linkedin.com/in/nahid-hasan-ashik/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://researchgate.net/profile/Nahid-Ashik">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white"/>
-</a>
-<a href="mailto:nahidhashik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/8801728092066">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-</a>
+📍 Dhaka, Bangladesh | 📧 nahidhashik@gmail.com | 📱 +8801728092066  
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT ME & ⚡ HIGHLIGHTS
 
-I am a passionate **Software Engineer & Researcher** with strong expertise in:
+<table>
+<tr>
+<td width="60%">
 
-- ⚡ High-Performance Computing (HPC)  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧬 Quantum Computing  
-- 📊 Performance Optimization & Scalable Systems  
+### 🧠 About Me
+- 💻 Strong in **HPC, AI/ML, Quantum Computing**
+- ⚡ Focus on **performance & scalability**
+- 🔬 Research in **Explainable AI & Computer Vision**
 
-🔭 Currently working as **AI & Automation Specialist** at **SARBS Communication Ltd.**  
-🎓 B.Sc. in Computer Science & Engineering — *East West University*  
-🚀 Co-founder of **Lastcoders Limited**  
-🔬 Research focus: **Explainable AI (XAI)** & **Computer Vision**
+- 🏢 AI & Automation Specialist — SARBS Communication Ltd.  
+- 🎓 B.Sc. CSE — East West University  
+- 🚀 Co-founder — Lastcoders Limited  
+
+</td>
+
+<td width="40%">
+
+### ⚡ Highlights
+- 🧩 **100+** Problems Solved  
+- 📄 **3** Research Papers  
+- 🎓 **B.Sc. Graduate**  
+- 🚀 **Startup Founder**  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Competitive Programming
+## 🏆 COMPETITIVE PROGRAMMING
 
-- 💻 **beecrowd:** 100+ Problems Solved  
-- 🧩 **LeetCode:** Active Problem Solver  
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🐝 beecrowd  
+💯 100+ Problems Solved  
+🔗 https://judge.beecrowd.com.br/judge/en/profile/203779  
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧠 LeetCode  
+🔥 Active Problem Solver  
+🔗 https://leetcode.com/u/nahidhashik/  
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['beecrowd','LeetCode'],datasets:[{data:[100,10]}]}}" width="300"/>
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['beecrowd','LeetCode'],datasets:[{data:[100,10]}]}}" width="300"/>
 </p>
 
 ---
 
-## 🔬 Research Publications
+## 🔬 RESEARCH PUBLICATIONS
 
-📄 **Deep Learning-Based Skin Lesion Classification**  
-➡️ *IJISRT, April 2025*
+<table>
+<tr>
+<td width="33%">
 
-📄 **Automation of Drowsiness Alert System for Drivers**  
-➡️ *ICRTMDR-23, Istanbul*
+### 🧠 Skin Lesion Classification  
+📍 IJISRT (2025)  
+🏷️ Deep Learning, CV  
 
-📄 **Hybrid Approach for Plant Disease Detection (CNN & SVM)**  
-➡️ *IJISRT, Oct 2023*
+</td>
+
+<td width="33%">
+
+### 🚗 Drowsiness Detection  
+📍 ICRTMDR-23, Turkey  
+🏷️ AI, Safety  
+
+</td>
+
+<td width="33%">
+
+### 🌱 Plant Disease Detection  
+📍 IJISRT (2023)  
+🏷️ ML, CV  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB METRICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 💻 TECH STACK
 
-```bash
-Languages:   Python | C++ | JavaScript  
-AI/ML:       TensorFlow | PyTorch | OpenCV  
-Web:         HTML | CSS | Bootstrap  
-Tools:       Git | Docker | Linux  
+<table>
+<tr>
+<td>
+
+**Languages**  
+Python • C++ • JavaScript  
+
+</td>
+<td>
+
+**AI/ML**  
+TensorFlow • PyTorch • OpenCV  
+
+</td>
+<td>
+
+**Web**  
+HTML • CSS • Bootstrap  
+
+</td>
+<td>
+
+**Tools**  
+Git • Docker • Linux  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 CONTACT & SOCIAL
+
+<p align="center">
+<a href="https://linkedin.com/in/nahid-hasan-ashik/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://researchgate.net/profile/Nahid-Ashik">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
+</a>
+<a href="https://x.com/nahidhashik">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:nahidhashik@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/8801728092066">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+✨ *Engineering the future, one line of code at a time.*
+
+</div>
