@@ -139,8 +139,12 @@ currently:   Advancing scientific discovery through algorithm design
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Active-7ee787?style=flat-square&labelColor=0d0d0d&logo=fitbit&logoColor=white" />
-<img src="https://img.shields.io/badge/Languages-C%20%C2%B7%20C%2B%2B%20%C2%B7%20Python-58a6ff?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Acceptance-~55%25-7ee787?style=flat-square&labelColor=0d0d0d&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Primary-C%2B%2B-58a6ff?style=flat-square&labelColor=0d0d0d&logo=cplusplus&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Languages-C%2B%2B%20%C2%B7%20C%20%C2%B7%20Python-9C27B0?style=flat-square&labelColor=0d0d0d" />
 
 <br/>
 
@@ -148,7 +152,7 @@ currently:   Advancing scientific discovery through algorithm design
 
 <br/><br/>
 
-<sub><b>100+ Problems Solved</b></sub>
+<sub><b>100+ Problems Solved · ~55% Acceptance Rate</b></sub>
 </td>
 <td width="50%" align="center" valign="top">
 <h3>🧩 LeetCode</h3>
