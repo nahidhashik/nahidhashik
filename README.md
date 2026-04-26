@@ -133,6 +133,24 @@ currently:   Advancing scientific discovery through algorithm design
 </a>
 <br/>
 <sub><b>100+ Problems Solved</b></sub>
+
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  PURE-BADGE FALLBACK (use if you don't want to upload the SVG)  ║
+  ║  Delete the <a> block above and uncomment this block instead:   ║
+  ╚══════════════════════════════════════════════════════════════════╝
+
+<a href="https://www.beecrowd.com.br/judge/en/profile/203779">
+  <img src="https://img.shields.io/badge/Profile-%23203779-FFC107?style=for-the-badge&logo=honey&logoColor=black&labelColor=0d0d0d" />
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Solved-100%2B%20Problems-FFC107?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Status-Active-7ee787?style=flat-square&logo=fitbit&logoColor=white&labelColor=0d0d0d" />
+<br/>
+<img src="https://img.shields.io/badge/Languages-C%20%C2%B7%20C%2B%2B%20%C2%B7%20Python-58a6ff?style=flat-square&logo=codingame&logoColor=white&labelColor=0d0d0d" />
+<br/>
+<img src="https://img.shields.io/badge/Brazilian%20Online%20Judge-beecrowd.com.br-FF6F00?style=flat-square&labelColor=0d0d0d" />
+-->
 </td>
 <td width="50%" align="center">
 <h3>🧩 LeetCode</h3>
