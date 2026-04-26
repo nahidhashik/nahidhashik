@@ -1,177 +1,79 @@
-<div align="center">
+# Nahid Hasan Ashik
+**🚀 Software Engineer | AI & Automation Specialist at SARBS Communication Ltd.**
+> *"Advancing scientific discovery through innovative algorithm design and interdisciplinary collaboration."*
 
-<img src="https://github.com/nahidhashik.png" width="130" style="border-radius:50%" />
-
-# Nahid Hasan Ashik  
-### 🚀 Software Engineer | AI & Automation Specialist  
-
-💬 *Advancing scientific discovery through innovative algorithm design and interdisciplinary collaboration.*
-
-<br/>
-
-📍 Dhaka, Bangladesh | 📧 nahidhashik@gmail.com | 📱 +8801728092066  
-
-</div>
+📍 Dhaka, Bangladesh | 📧 [nahidhashik@gmail.com](mailto:nahidhashik@gmail.com) | 📞 +8801728092066 | 🔗 [nahidhashik.github.io/resume/](https://nahidhashik.github.io/resume/)
 
 ---
 
-## 🧠 ABOUT ME & ⚡ HIGHLIGHTS
+## 💻 About Me
+I am a motivated researcher and engineer with a strong background in **High-Performance Computing (HPC)**, **Artificial Intelligence/Machine Learning (AI/ML)**, and **Quantum Computing**. I focus on optimizing performance and scalability in complex computing environments.
 
-<table>
-<tr>
-<td width="60%">
-
-### 🧠 About Me
-- 💻 Strong in **HPC, AI/ML, Quantum Computing**
-- ⚡ Focus on **performance & scalability**
-- 🔬 Research in **Explainable AI & Computer Vision**
-
-- 🏢 AI & Automation Specialist — SARBS Communication Ltd.  
-- 🎓 B.Sc. CSE — East West University  
-- 🚀 Co-founder — Lastcoders Limited  
-
-</td>
-
-<td width="40%">
-
-### ⚡ Highlights
-- 🧩 **100+** Problems Solved  
-- 📄 **3** Research Papers  
-- 🎓 **B.Sc. Graduate**  
-- 🚀 **Startup Founder**  
-
-</td>
-</tr>
-</table>
+* **Current Role:** AI and Automation Specialist at SARBS Communication Ltd.
+* **Education:** B.Sc. in Computer Science and Engineering from East West University
+* **Innovation:** Co-founder of Lastcoders Limited, a software solutions startup
+* **Research:** Focused on Explainable AI (XAI) and Computer Vision
 
 ---
 
-## 🏆 COMPETITIVE PROGRAMMING
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🐝 beecrowd  
-💯 100+ Problems Solved  
-🔗 https://judge.beecrowd.com.br/judge/en/profile/203779  
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧠 LeetCode  
-🔥 Active Problem Solver  
-🔗 https://leetcode.com/u/nahidhashik/  
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['beecrowd','LeetCode'],datasets:[{data:[100,10]}]}}" width="300"/>
-</p>
+## ⚡ Highlights
+* **100+** Problems Solved on beecrowd
+* **3** Research Publications
+* **B.Sc.** Computer Science Engineering
+* **Co-founder** Lastcoders Limited
 
 ---
 
-## 🔬 RESEARCH PUBLICATIONS
+## 🏆 Competitive Programming & Problem Solving
 
-<table>
-<tr>
-<td width="33%">
+### beecrowd
+* 100+ Problems Solved
+* [View Profile →](https://www.beecrowd.com.br/judge/en/profile/643806)
 
-### 🧠 Skin Lesion Classification  
-📍 IJISRT (2025)  
-🏷️ Deep Learning, CV  
+### LeetCode
+* Active Problem Solver
+* [View Profile →](https://leetcode.com/u/nahidhashik/)
 
-</td>
-
-<td width="33%">
-
-### 🚗 Drowsiness Detection  
-📍 ICRTMDR-23, Turkey  
-🏷️ AI, Safety  
-
-</td>
-
-<td width="33%">
-
-### 🌱 Plant Disease Detection  
-📍 IJISRT (2023)  
-🏷️ ML, CV  
-
-</td>
-</tr>
-</table>
+### Problem Solving Distribution
+* **beecrowd:** 90.9% (100+ Problems)
+* **LeetCode:** 9.1% (10+ Problems)
 
 ---
 
-## 📊 GITHUB METRICS
+## 🔬 Research Publications
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 💻 TECH STACK
-
-<table>
-<tr>
-<td>
-
-**Languages**  
-Python • C++ • JavaScript  
-
-</td>
-<td>
-
-**AI/ML**  
-TensorFlow • PyTorch • OpenCV  
-
-</td>
-<td>
-
-**Web**  
-HTML • CSS • Bootstrap  
-
-</td>
-<td>
-
-**Tools**  
-Git • Docker • Linux  
-
-</td>
-</tr>
-</table>
+| Publication Title | Venue | Tags |
+| :--- | :--- | :--- |
+| **Deep Learning-Based Skin Lesion Classification** | IJISRT, April 2025 | Deep Learning • Computer Vision |
+| **Automation of Drowsiness Alert System for Drivers** | ICRTMDR-23, Istanbul, Turkey | AI • Automation • Safety |
+| **Hybrid Approach for Plant Disease Detection (CNN & SVM)** | IJISRT, Oct 2023 | Machine Learning • Computer Vision |
 
 ---
 
-## 🌐 CONTACT & SOCIAL
+## 📊 GitHub Engineering Metrics
+**Username:** [nahidhashik](https://github.com/nahidhashik)
 
-<p align="center">
-<a href="https://linkedin.com/in/nahid-hasan-ashik/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://researchgate.net/profile/Nahid-Ashik">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
-</a>
-<a href="https://x.com/nahidhashik">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:nahidhashik@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/8801728092066">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-</p>
+* **Total Contributions:** 1,200+
+* **Public Repos:** 40+
+* **Followers:** 100+
+* **Following:** 80+
+
+### Top Languages
+1.  **Python:** 60.3%
+2.  **Java:** 17.1%
+3.  **C++:** 10.6%
+4.  **JavaScript:** 6.4%
+5.  **HTML:** 3.0%
+6.  **Other:** 2.6%
 
 ---
 
-<div align="center">
+## 📧 Contact & Social Media
+* **LinkedIn:** [/in/nahid-hasan-ashik/](https://linkedin.com/in/nahid-hasan-ashik/)
+* **ResearchGate:** [/profile/Nahid-Ashik](https://www.researchgate.net/profile/Nahid-Ashik)
+* **X (Twitter):** [@nahidhashik](https://twitter.com/nahidhashik)
+* **Email:** [nahidhashik@gmail.com](mailto:nahidhashik@gmail.com)
+* **WhatsApp:** [+8801728092066](https://wa.me/8801728092066)
 
-✨ *Engineering the future, one line of code at a time.*
-
-</div>
+---
+*</> Engineering the future, one line of code at a time.*
