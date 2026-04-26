@@ -34,4 +34,23 @@ I am an **AI Engineer** based in Dhaka, Bangladesh. I specialize in bridging the
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img width="48%" src="
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhashik&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhashik&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhashik&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect With Me
+- **WhatsApp:** [+880 1728-092066](https://wa.me/8801728092066)
+- **Mobile:** +880 1537-149052
+- **ResearchGate:** [Nahid Ashik](https://www.researchgate.net/profile/Nahid-Ashik)
+
+---
+
+<div align="center">
+  <sub>Engineering the future, one line of code at a time.</sub>
+</div>
